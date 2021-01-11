@@ -1,0 +1,1 @@
+xbot: python -m xbot
